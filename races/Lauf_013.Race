@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rennen RaceMode="Rennen" RaceTime="15" StartZeit="2022-10-22T17:01:34.0509806+02:00" Laufnummer="13" Karts="7">
+  <Karts>
+    <Kart KartName="Kart 10" BesteZeit="39015" BesteRunde="14" Fahrer="Tobias" Position="1">
+      <Runde TimeStamp="132390" Time="91900" Fahrer="Gast85901" />
+      <Runde TimeStamp="171956" Time="39566" Fahrer="Gast85901" />
+      <Runde TimeStamp="211901" Time="39945" Fahrer="Gast85901" />
+      <Runde TimeStamp="251497" Time="39596" Fahrer="Gast85901" />
+      <Runde TimeStamp="291237" Time="39740" Fahrer="Gast85901" />
+      <Runde TimeStamp="331253" Time="40016" Fahrer="Gast85901" />
+      <Runde TimeStamp="371268" Time="40015" Fahrer="Gast85901" />
+      <Runde TimeStamp="411028" Time="39760" Fahrer="Gast85901" />
+      <Runde TimeStamp="450944" Time="39916" Fahrer="Gast85901" />
+      <Runde TimeStamp="490119" Time="39175" Fahrer="Gast85901" />
+      <Runde TimeStamp="529747" Time="39628" Fahrer="Gast85901" />
+      <Runde TimeStamp="571340" Time="41593" Fahrer="Gast85901" />
+      <Runde TimeStamp="611081" Time="39741" Fahrer="Gast85901" />
+      <Runde TimeStamp="650096" Time="39015" Fahrer="Gast85901" />
+      <Runde TimeStamp="689932" Time="39836" Fahrer="Gast85901" />
+      <Runde TimeStamp="729601" Time="39669" Fahrer="Gast85901" />
+      <Runde TimeStamp="770902" Time="41301" Fahrer="Gast85901" />
+      <Runde TimeStamp="810204" Time="39302" Fahrer="Gast85901" />
+      <Runde TimeStamp="849927" Time="39723" Fahrer="Gast85901" />
+      <Runde TimeStamp="891393" Time="41466" Fahrer="Gast85901" />
+      <Runde TimeStamp="938369" Time="46976" Fahrer="Gast85901" />
+    </Kart>
+    <Kart KartName="Kart 14" BesteZeit="39655" BesteRunde="19" Fahrer="Nele" Position="2">
+      <Runde TimeStamp="133379" Time="86295" Fahrer="Gast92449" />
+      <Runde TimeStamp="175887" Time="42508" Fahrer="Gast92449" />
+      <Runde TimeStamp="216895" Time="41008" Fahrer="Gast92449" />
+      <Runde TimeStamp="257628" Time="40733" Fahrer="Gast92449" />
+      <Runde TimeStamp="298263" Time="40635" Fahrer="Gast92449" />
+      <Runde TimeStamp="338962" Time="40699" Fahrer="Gast92449" />
+      <Runde TimeStamp="379700" Time="40738" Fahrer="Gast92449" />
+      <Runde TimeStamp="421663" Time="41963" Fahrer="Gast92449" />
+      <Runde TimeStamp="462162" Time="40499" Fahrer="Gast92449" />
+      <Runde TimeStamp="503148" Time="40986" Fahrer="Gast92449" />
+      <Runde TimeStamp="543905" Time="40757" Fahrer="Gast92449" />
+      <Runde TimeStamp="584549" Time="40644" Fahrer="Gast92449" />
+      <Runde TimeStamp="625453" Time="40904" Fahrer="Gast92449" />
+      <Runde TimeStamp="666743" Time="41290" Fahrer="Gast92449" />
+      <Runde TimeStamp="707691" Time="40948" Fahrer="Gast92449" />
+      <Runde TimeStamp="747478" Time="39787" Fahrer="Gast92449" />
+      <Runde TimeStamp="787446" Time="39968" Fahrer="Gast92449" />
+      <Runde TimeStamp="828533" Time="41087" Fahrer="Gast92449" />
+      <Runde TimeStamp="868188" Time="39655" Fahrer="Gast92449" />
+      <Runde TimeStamp="910123" Time="41935" Fahrer="Gast92449" />
+    </Kart>
+    <Kart KartName="Kart 12" BesteZeit="40908" BesteRunde="7" Fahrer="Alex" Position="3">
+      <Runde TimeStamp="134270" Time="81824" Fahrer="Gast01188" />
+      <Runde TimeStamp="177379" Time="43109" Fahrer="Gast01188" />
+      <Runde TimeStamp="219630" Time="42251" Fahrer="Gast01188" />
+      <Runde TimeStamp="261067" Time="41437" Fahrer="Gast01188" />
+      <Runde TimeStamp="303317" Time="42250" Fahrer="Gast01188" />
+      <Runde TimeStamp="344651" Time="41334" Fahrer="Gast01188" />
+      <Runde TimeStamp="385559" Time="40908" Fahrer="Gast01188" />
+      <Runde TimeStamp="428565" Time="43006" Fahrer="Gast01188" />
+      <Runde TimeStamp="469850" Time="41285" Fahrer="Gast01188" />
+      <Runde TimeStamp="511473" Time="41623" Fahrer="Gast01188" />
+      <Runde TimeStamp="554713" Time="43240" Fahrer="Gast01188" />
+      <Runde TimeStamp="602663" Time="47950" Fahrer="Gast01188" />
+      <Runde TimeStamp="644191" Time="41528" Fahrer="Gast01188" />
+      <Runde TimeStamp="687844" Time="43653" Fahrer="Gast01188" />
+      <Runde TimeStamp="729179" Time="41335" Fahrer="Gast01188" />
+      <Runde TimeStamp="772738" Time="43559" Fahrer="Gast01188" />
+      <Runde TimeStamp="813704" Time="40966" Fahrer="Gast01188" />
+      <Runde TimeStamp="855207" Time="41503" Fahrer="Gast01188" />
+      <Runde TimeStamp="898025" Time="42818" Fahrer="Gast01188" />
+      <Runde TimeStamp="940771" Time="42746" Fahrer="Gast01188" />
+    </Kart>
+    <Kart KartName="Kart 03" BesteZeit="41256" BesteRunde="9" Fahrer="Tristan" Position="4">
+      <Runde TimeStamp="136246" Time="77059" Fahrer="Gast59627" />
+      <Runde TimeStamp="178218" Time="41972" Fahrer="Gast59627" />
+      <Runde TimeStamp="220739" Time="42521" Fahrer="Gast59627" />
+      <Runde TimeStamp="264816" Time="44077" Fahrer="Gast59627" />
+      <Runde TimeStamp="306305" Time="41489" Fahrer="Gast59627" />
+      <Runde TimeStamp="348549" Time="42244" Fahrer="Gast59627" />
+      <Runde TimeStamp="390242" Time="41693" Fahrer="Gast59627" />
+      <Runde TimeStamp="431680" Time="41438" Fahrer="Gast59627" />
+      <Runde TimeStamp="472936" Time="41256" Fahrer="Gast59627" />
+      <Runde TimeStamp="515582" Time="42646" Fahrer="Gast59627" />
+      <Runde TimeStamp="557479" Time="41897" Fahrer="Gast59627" />
+      <Runde TimeStamp="600799" Time="43320" Fahrer="Gast59627" />
+      <Runde TimeStamp="643381" Time="42582" Fahrer="Gast59627" />
+      <Runde TimeStamp="685578" Time="42197" Fahrer="Gast59627" />
+      <Runde TimeStamp="728030" Time="42452" Fahrer="Gast59627" />
+      <Runde TimeStamp="772171" Time="44141" Fahrer="Gast59627" />
+      <Runde TimeStamp="814967" Time="42796" Fahrer="Gast59627" />
+      <Runde TimeStamp="857348" Time="42381" Fahrer="Gast59627" />
+      <Runde TimeStamp="899723" Time="42375" Fahrer="Gast59627" />
+      <Runde TimeStamp="943963" Time="44240" Fahrer="Gast59627" />
+    </Kart>
+    <Kart KartName="Kart 11" BesteZeit="41283" BesteRunde="19" Fahrer="Ali" Position="5">
+      <Runde TimeStamp="137509" Time="73279" Fahrer="Gast93654" />
+      <Runde TimeStamp="179364" Time="41855" Fahrer="Gast93654" />
+      <Runde TimeStamp="220948" Time="41584" Fahrer="Gast93654" />
+      <Runde TimeStamp="263882" Time="42934" Fahrer="Gast93654" />
+      <Runde TimeStamp="305717" Time="41835" Fahrer="Gast93654" />
+      <Runde TimeStamp="347260" Time="41543" Fahrer="Gast93654" />
+      <Runde TimeStamp="388967" Time="41707" Fahrer="Gast93654" />
+      <Runde TimeStamp="430682" Time="41715" Fahrer="Gast93654" />
+      <Runde TimeStamp="472009" Time="41327" Fahrer="Gast93654" />
+      <Runde TimeStamp="513770" Time="41761" Fahrer="Gast93654" />
+      <Runde TimeStamp="555483" Time="41713" Fahrer="Gast93654" />
+      <Runde TimeStamp="603729" Time="48246" Fahrer="Gast93654" />
+      <Runde TimeStamp="645341" Time="41612" Fahrer="Gast93654" />
+      <Runde TimeStamp="696998" Time="51657" Fahrer="Gast93654" />
+      <Runde TimeStamp="739403" Time="42405" Fahrer="Gast93654" />
+      <Runde TimeStamp="782098" Time="42695" Fahrer="Gast93654" />
+      <Runde TimeStamp="824964" Time="42866" Fahrer="Gast93654" />
+      <Runde TimeStamp="867208" Time="42244" Fahrer="Gast93654" />
+      <Runde TimeStamp="908491" Time="41283" Fahrer="Gast93654" />
+    </Kart>
+    <Kart KartName="Kart 07" BesteZeit="42628" BesteRunde="9" Fahrer="Benny" Position="6">
+      <Runde TimeStamp="140054" Time="63957" Fahrer="Gast29844" />
+      <Runde TimeStamp="183601" Time="43547" Fahrer="Gast29844" />
+      <Runde TimeStamp="226776" Time="43175" Fahrer="Gast29844" />
+      <Runde TimeStamp="270565" Time="43789" Fahrer="Gast29844" />
+      <Runde TimeStamp="313488" Time="42923" Fahrer="Gast29844" />
+      <Runde TimeStamp="356661" Time="43173" Fahrer="Gast29844" />
+      <Runde TimeStamp="400000" Time="43339" Fahrer="Gast29844" />
+      <Runde TimeStamp="442665" Time="42665" Fahrer="Gast29844" />
+      <Runde TimeStamp="485293" Time="42628" Fahrer="Gast29844" />
+      <Runde TimeStamp="527949" Time="42656" Fahrer="Gast29844" />
+      <Runde TimeStamp="572984" Time="45035" Fahrer="Gast29844" />
+      <Runde TimeStamp="615721" Time="42737" Fahrer="Gast29844" />
+      <Runde TimeStamp="658665" Time="42944" Fahrer="Gast29844" />
+      <Runde TimeStamp="702178" Time="43513" Fahrer="Gast29844" />
+      <Runde TimeStamp="746205" Time="44027" Fahrer="Gast29844" />
+      <Runde TimeStamp="791322" Time="45117" Fahrer="Gast29844" />
+      <Runde TimeStamp="834948" Time="43626" Fahrer="Gast29844" />
+      <Runde TimeStamp="879382" Time="44434" Fahrer="Gast29844" />
+      <Runde TimeStamp="926777" Time="47395" Fahrer="Gast29844" />
+    </Kart>
+    <Kart KartName="Kart 06" BesteZeit="41823" BesteRunde="13" Fahrer="Norbert" Position="7">
+      <Runde TimeStamp="138236" Time="69751" Fahrer="Gast18718" />
+      <Runde TimeStamp="180632" Time="42396" Fahrer="Gast18718" />
+      <Runde TimeStamp="223889" Time="43257" Fahrer="Gast18718" />
+      <Runde TimeStamp="266524" Time="42635" Fahrer="Gast18718" />
+      <Runde TimeStamp="308875" Time="42351" Fahrer="Gast18718" />
+      <Runde TimeStamp="352025" Time="43150" Fahrer="Gast18718" />
+      <Runde TimeStamp="395501" Time="43476" Fahrer="Gast18718" />
+      <Runde TimeStamp="438038" Time="42537" Fahrer="Gast18718" />
+      <Runde TimeStamp="482893" Time="44855" Fahrer="Gast18718" />
+      <Runde TimeStamp="525384" Time="42491" Fahrer="Gast18718" />
+      <Runde TimeStamp="568153" Time="42769" Fahrer="Gast18718" />
+      <Runde TimeStamp="611273" Time="43120" Fahrer="Gast18718" />
+      <Runde TimeStamp="653096" Time="41823" Fahrer="Gast18718" />
+      <Runde TimeStamp="695914" Time="42818" Fahrer="Gast18718" />
+      <Runde TimeStamp="739304" Time="43390" Fahrer="Gast18718" />
+      <Runde TimeStamp="781513" Time="42209" Fahrer="Gast18718" />
+      <Runde TimeStamp="823382" Time="41869" Fahrer="Gast18718" />
+      <Runde TimeStamp="866665" Time="43283" Fahrer="Gast18718" />
+    </Kart>
+  </Karts>
+</Rennen>

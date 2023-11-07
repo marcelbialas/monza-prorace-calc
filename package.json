@@ -1,0 +1,17 @@
+{
+  "name": "procalc",
+  "version": "1.0.0",
+  "description": "Calculator for Pro-Races on Karting Track",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcel Bialas / Monza Indoor Kart GmbH",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "readline": "^1.3.0",
+    "xml2json": "^0.12.0"
+  }
+}
